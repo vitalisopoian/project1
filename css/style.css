@@ -1,0 +1,78 @@
+
+.ford-logo{
+    margin-top: 32px; 
+    margin-bottom: 60px;
+    margin-left: 40px;
+}
+
+.navigation {
+    text-decoration: none;
+    color: blue;
+    font-size: 26px;
+    margin-left: 40px;
+}
+
+.current{
+    color: red;
+}
+
+.ul-about {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+
+.car {
+    margin-top: 90px;
+    margin-left: 40px;
+}
+
+.text {
+    color:  #20FF0D;
+    width: 1345px;
+    font-size: 24px;
+    margin-left: 40px;
+    margin-top: 45px;
+}
+
+.about-us {
+    color:#D41EF2;
+    font-size: 30px;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
+
+.text-about {
+    color: #D41EF2;
+    width: 1320px;
+    font-size: 24px;
+    text-align: left;
+    margin-left: 40px;
+}
+
+      /* contact */
+
+.section-1 {
+    background-color: #D41EF2;
+    width: 448px;
+    height: 164px;
+    margin-top: 80px;
+    margin-left: 510px; 
+    margin-bottom: 80px;
+}
+
+.contact-information {
+    font-size: 36px;
+    color: azure;
+}
+
+.adres-tel-email{
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.adress {
+    text-decoration: none;
+    color: black;
+}
